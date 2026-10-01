@@ -1,0 +1,2 @@
+total_rows_fact,monthly_partitions,policy,simulated_changed_deals,partitions_refreshed,rows_scanned_incremental,rows_scanned_full_refresh,scan_reduction_pct
+18000,95,trailing 3 months,153,4,220,18000,98.8
